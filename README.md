@@ -38,7 +38,7 @@ Post Populating Data
 
 ![Pre Data Population](screenshots/post_populating_db.png)
 
-Populate Custom Data by adding and commiting other JSON files and then running the custom 
+Populate Custom Data by pushing other JSON files in the server and then running the custom management command populate_db
 
 Heroku Auto Deploy : 
 
