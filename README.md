@@ -38,6 +38,7 @@ Post Populating Data
 
 ![Pre Data Population](screenshots/post_populating_db.png)
 
-Deploy to your own heroku by clicking below
+Heroku Auto Deploy : 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
