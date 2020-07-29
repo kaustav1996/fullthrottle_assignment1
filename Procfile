@@ -1,1 +1,1 @@
-web: gunicorn assignment1.wsgi
+web: sh -c 'gunicorn assignment1.wsgi && pip install -r requirements.txt'
