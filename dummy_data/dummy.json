@@ -1,0 +1,23 @@
+{
+	"ok": true,
+	"members": [
+		{
+			"id": "W0KAUSTA4",
+			"real_name": "Kaustav Banerjee",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 4:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 5:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  6:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		}
+	]
+}
