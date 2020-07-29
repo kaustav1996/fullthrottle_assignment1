@@ -40,6 +40,8 @@ Post Populating Data
 
 Populate Custom Data by pushing other JSON files in the server and then running the custom management command populate_db
 
+![Custom Data Population](screenshots/custom_data.png)
+
 Heroku Auto Deploy : 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
